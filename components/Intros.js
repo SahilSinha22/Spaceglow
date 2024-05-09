@@ -26,12 +26,12 @@ const Intros = () => {
         <Image src={Mobi3} alt="App Image 4" class="rounded-lg shadow-lg transform hover:scale-105 transition duration-300" width={500} height={10}/>
     </div>
     </div>
-    <div class="grid grid-cols-2 md:flex mt-5 justify-center md:justify-around  md:space-x-4 md:mt-40 bg-purple-500 h-60 md:h-60 xl:h-80">
+    <div class="grid grid-cols-2 sm:grid-cols-4 md:flex mt-5 justify-center md:justify-around  md:space-x-4 md:mt-40 bg-purple-500 h-60 md:h-60 xl:h-80">
         
-        <Image src={Mobi2} alt="Company Logo 1" class=" md:mx-5 opacity-75 hover:opacity-100 transition duration-300"  width={100} height={5}/>
-        <Image src={Mobi2} alt="Company Logo 2" class="md:mx-5 opacity-75 hover:opacity-100 transition duration-300" width={100} height={5}/>
-        <Image src={Mobi} alt="Company Logo 3" class="md:mx-5 opacity-75 hover:opacity-100 transition duration-300" width={100} height={5}/>
-        <Image src={Mobi} alt="Company Logo 4" class="md:mx-5 opacity-75 hover:opacity-100 transition duration-300" width={100} height={5}/>
+        <Image src={Mobi2} alt="Company Logo 1" class=" md:mx-5 mt-10 sm:mt-20 sm:pt-10 opacity-75 hover:opacity-100 transition duration-300"  width={100} height={5}/>
+        <Image src={Mobi2} alt="Company Logo 2" class="md:mx-5 mt-10 sm:mt-20 sm:pt-10 opacity-75 hover:opacity-100 transition duration-300" width={100} height={5}/>
+        <Image src={Mobi} alt="Company Logo 3" class="md:mx-5  sm:mt-20 sm:pt-10 opacity-75 hover:opacity-100 transition duration-300" width={100} height={5}/>
+        <Image src={Mobi} alt="Company Logo 4" class="md:mx-5  sm:mt-20 sm:pt-10 opacity-75 hover:opacity-100 transition duration-300" width={100} height={5}/>
     </div>
 </div>
   )
