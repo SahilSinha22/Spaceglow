@@ -18,7 +18,7 @@ const Intros = () => {
         <button class="border-2 border-solid rounded-full text-white font-bold py-2 px-4  hover:bg-blue-700  transition duration-300">Let's Talk!</button>
     </div>
     <div class=" relative h-20 lg:h-80 lg:my-10 lg:py-10 ">
-      <div className="absolute lg:top-40 xl:top-10 mt-12  grid grid-cols-5  lg:grid-cols-5 gap-2">
+      <div className="absolute lg:top-40 xl:top-20 mt-12  grid grid-cols-5  lg:grid-cols-5 gap-2">
         <Image src={Mobi1} alt="App Image 1" class="rounded-lg  shadow-lg transform hover:scale-105 transition duration-300" width={500} height={10}/>
         <Image src={Mobi1} alt="App Image 2" class="rounded-lg shadow-lg transform hover:scale-105 transition duration-300"  width={500} height={10}/>
         <Image src={Mobi1} alt="App Image 2" class="rounded-lg shadow-lg transform hover:scale-105 transition duration-300"  width={500} height={10}/>
