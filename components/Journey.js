@@ -3,7 +3,7 @@ import Image from 'next/image'
 const Journey = () => {
   return (
     
-    <div class="max-w-7xl  px-4 py-12 mx-10 sm:mx-20">
+    <div class="max-w-7xl  px-4 py-12 mx-10 ">
         <div className="mx-5 md:mx-20">
     <h2 class="text-3xl md:text-6xl font-bold font-sedan text-left">Spacetotech journey of <br/> Mobile app development</h2>
     <p class="text-left md:text-2xl text-zinc-600 mt-4">Our top mobile app development company proudly serves a diverse range of industries. Through innovative technology solutions, we empower businesses in numerous sectors to engage customers, optimize operations, and unlock new opportunities for growth.</p>
