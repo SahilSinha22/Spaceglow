@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 const Award = () => {
   return (
-    <div class="bg-white text-zinc-800 p-8 sm:mx-8">
+    <div class="bg-white text-zinc-800 p-8 ">
       <div class="text-between flex flex-col md:flex-row justify-between">
         <div className="">
           <h1 class="text-4xl font-bold mb-4 md:text-6xl font-sedan">Awards & Recognition</h1>
@@ -13,8 +13,8 @@ const Award = () => {
         </div>
         <div className="flex flex-col">
           <div className="flex flex-row justify-center ">
-            <div className="relative -left-10 flex-row flex text-6xl md:text-8xl font-extrabold">C
-            <div className="absolute  -top-12 md:-top-8 md:left-5 left-3 text-8xl md:text-12xl font-extrabold text-red-600">.</div>
+            <div className="relative -top-2 -left-10 flex-row flex text-6xl md:text-8xl font-extrabold">C
+            <div className="absolute  -top-16 md:-top-8 md:left-5 left-2 text-8xl md:text-12xl font-extrabold text-red-600">.</div>
             <div class=" absolute left-20 top-5 text-4xl text-center md:text-6xl font-bold mb-4 text-red-600">
               4.9
             </div>
