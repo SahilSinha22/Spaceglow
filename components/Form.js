@@ -14,7 +14,7 @@ import Img11 from "@/public/11.jpg"
 import Img12 from "@/public/12.jpg"
 const Form = () => {
   return (
-    <div className=" bg-black sm:mx-8">
+    <div className=" bg-black ">
 
 <div className="flex flex-col m-1  pt-4  ">
   <div className="grid grid-cols-4 py-4 px-4 ">
