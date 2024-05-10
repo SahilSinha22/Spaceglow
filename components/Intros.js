@@ -7,7 +7,7 @@ import Mobi3 from "@/public/im3.jpg"
 
 const Intros = () => {
   return (
-    <div class=" text-white pt-12 h-auto sm:mx-8 "
+    <div class=" text-white pt-12 h-auto  "
     style={{
       backgroundImage: `url("bg.jpg")`,
     }}
