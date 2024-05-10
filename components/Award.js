@@ -14,8 +14,8 @@ const Award = () => {
         <div className="flex flex-col">
           <div className="flex flex-row justify-center ">
             <div className="relative -top-2 -left-10 flex-row flex text-6xl md:text-8xl font-extrabold">C
-            <div className="absolute  -top-16 md:-top-8 md:left-5 left-2 text-8xl md:text-12xl font-extrabold text-red-600">.</div>
-            <div class=" absolute left-20 top-5 text-4xl text-center md:text-6xl font-bold mb-4 text-red-600">
+            <div className="absolute  -top-16 md:-top-8 md:left-5 left-2 text-7xl md:text-8xl font-semibold md:font-extrabold text-red-600">.</div>
+            <div class=" absolute left-24 top-5 text-4xl text-center md:text-6xl font-bold mb-4 text-red-600">
               4.9
             </div>
 </div>
