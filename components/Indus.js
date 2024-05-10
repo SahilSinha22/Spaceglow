@@ -12,7 +12,7 @@ const Indus = () => {
                 optimize operations, and unlock new opportunities for growth.
             </p>
         </div>
-        <div class="relative h-80 mt-10 mx-5 sm:mx-20 md:mx-32 lg:mx-60 xl:mx-80 xl:last: justify-center grid grid-cols-6  sm:grid-cols-6   md:grid-cols-6 ">
+        <div class="relative h-80 mt-10 mx-5 sm:mx-20 md:mx-32 lg:mx-60 xl:mx-80 xl:justify-center grid grid-cols-6  sm:grid-cols-6   md:grid-cols-6 ">
             <div class=" relative bg-black dark:bg-zinc-800  w-10 sm:w-16 hover:h-80 md:hover:h-auto md:w-20 lg:w-20 md:hover:w-60 lg:hover:w-80  hover:w-52  p-6  rounded-lg"
             >
             <div className="  absolute z-10  bottom-10  opacity-0 p-6 hover:opacity-100">
