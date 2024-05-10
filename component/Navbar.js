@@ -6,7 +6,7 @@ function App() {
  const [isOpen, setIsOpen] = useState(false);
 
  return (
-   <nav className="flex bg-black items-center sm:mx-8 justify-between flex-wrap p-6">
+   <nav className="flex bg-black items-center md:px-10 justify-between flex-wrap p-6">
      <div className="flex items-center flex-shrink-0 text-white mr-6 lg:mr-72">
      <span><Image src={Logo} className="" alt="Logo" width={200} height={10}/>
      </span> 
