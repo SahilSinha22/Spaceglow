@@ -4,19 +4,19 @@ import Mobi from "@/public/mobi1.png"
 import Tab from "@/public/tab.png"
 const Pef = () => {
   return (
-    <div className="bg-black text-white sm:mx-8">
-      <div className="flex justify-between items-center text-center p-10 bg-black text-white ">
-        <div className="text-center px-4 md:pr-4  border-r-2">
-          <h1 className="text-2xl  md:text-6xl h-45 font-bold">25+</h1>
-          <p className="text-sm md:text-xl mt-2">PARTNERS</p>
+    <div className="bg-black text-white ">
+      <div className="flex justify-between  lg:h-auto lg:items-center lg:text-center p-5 lg:p-20 bg-black text-white ">
+        <div className="text-center px-2 sm:pr-5 md:pr-10   border-r-2">
+          <h1 className="text-2xl proportional-nums md:text-7xl  lg:text-8xl lg:pt-8 h-45 font-semibold">25+</h1>
+          <p className="text-lg font-light lg:text-4xl lg:py-8 mt-2">PARTNERS</p>
         </div>
-        <div className="text-center px-2 md:pr-4 border-r-2">
-          <h1 className="text-2xl md:text-6xl font-bold">50+</h1>
-          <p className=" text-sm md:text-xl mt-2">TEAM SIZE</p>
+        <div className="text-center px-2 sm:pr-5 md:pr-10 border-r-2">
+          <h1 className="text-2xl proportional-nums md:text-7xl lg:text-8xl lg:pt-8 font-bold">50+</h1>
+          <p className="text-lg font-light lg:text-4xl px-4 sm:px-1 lg:py-8 mt-2">TEAM SIZE</p>
         </div>
         <div className="text-center">
-          <h1 className="text-2xl md:text-6xl font-bold">100+</h1>
-          <p className="text-sm md:text-xl mt-2">SUCCESSFUL PRODUCTS</p>
+          <h1 className="text-2xl proportional-nums md:text-7xl lining-nums lg:text-8xl lg:pt-8 font-bold">100+</h1>
+          <p className="text-lg font-light pr-2  lg:text-4xl lg:py-8 mt-2">SUCCESSFUL PRODUCTS</p>
         </div>
       </div>
       <div className="bg-red-600 p-10 text-center items-center">
