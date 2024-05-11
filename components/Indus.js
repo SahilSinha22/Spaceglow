@@ -5,8 +5,8 @@ const Indus = () => {
   return (
     <div class=" max-w-7xl   px-4 sm:px-6 lg:px-8 py-12">
         <div class="text-left mx-10 md:mx-20">
-            <h2 class="text-3xl font-bold font-sedan md:text-6xl text-zinc-900 dark:text-white">Industries we serve</h2>
-            <p class="mt-4 text-lg md:text-2xl text-zinc-600 dark:text-zinc-300">
+            <h2 class="text-3xl font-bold font-sedan md:text-6xl text-zinc-900 ">Industries we serve</h2>
+            <p class="mt-4 text-lg md:text-2xl text-zinc-600 ">
                 Our top mobile app development company proudly serves a diverse range of industries. Through
                 innovative technology solutions, we empower businesses in numerous sectors to engage customers,
                 optimize operations, and unlock new opportunities for growth.
