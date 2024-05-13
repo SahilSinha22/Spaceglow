@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Mobi from "@/public/mobi1.png"
-import Tab from "@/public/tab.png"
+import Tab from "@/public/tab.png";
 const Pef = () => {
   return (
     <div className="bg-black text-white ">
